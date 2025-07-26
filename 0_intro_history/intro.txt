@@ -1,0 +1,51 @@
+Python: A Brief History
+🔹 Who created Python?
+Guido van Rossum, a Dutch programmer.
+
+He started working on Python in late 1980s and officially released Python 0.9.0 in 1991.
+
+🔹 Why was Python created?
+Guido wanted a language that was:
+
+Easy to read and write
+
+Had clear syntax
+
+Was suitable for both beginners and advanced users
+
+He was inspired by the ABC language (also developed at CWI, Netherlands).
+
+🔹 Why the name "Python"?
+Not after the snake 🐍!
+
+Guido was a fan of the British comedy group Monty Python’s Flying Circus — so the name is a tribute to them.
+
+🔹 Evolution of Python Versions
+Version	      Release Year	             Key Feature
+Python 1.0	   1991	                First official release
+Python 2.0	   2000	                Garbage collection, Unicode support
+Python 3.0	   2008	                Major overhaul, not backward compatible
+Python 3.6+	   2016 onwards	        f-strings, type hints, async features
+Python 3.11+   2022–25	            Speed improvements, error clarity
+
+📌 Today, the most commonly used version is Python 3.x, and Python 2 is no longer supported as of 2020.
+
+✨ Why is Python So Popular Today?
+Simple and readable syntax
+
+Large standard library
+
+Used in AI, ML, Data Science, Web Dev, Automation, Cybersecurity, etc.
+
+Huge community and support
+
+🧠 Quick Notes to Remember:
+Invented by: Guido van Rossum
+
+First released: 1991
+
+Inspired by: ABC language
+
+Name comes from: Monty Python’s Flying Circus
+
+Latest stable version: (we can check if you want the exact)

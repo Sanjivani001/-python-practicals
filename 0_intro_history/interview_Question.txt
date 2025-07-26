@@ -1,0 +1,60 @@
+✅ Basic Interview Questions on Python Introduction & History
+1. Who created Python and when was it released?
+Answer: Python was created by Guido van Rossum and released in 1991.
+
+2. Why is it called Python?
+Answer: The name “Python” was inspired by the British comedy group Monty Python’s Flying Circus, not the snake. Guido van Rossum was a big fan of the show.
+
+3. What was the main goal of developing Python?
+Answer: To create a language that is easy to read, simple to use, and supports code reusability, while also being powerful enough for large-scale software development.
+
+4. Which language inspired the creation of Python?
+Answer: Python was heavily influenced by the ABC language, which was also developed at CWI (Centrum Wiskunde & Informatica) in the Netherlands.
+
+5. What are some key milestones in Python’s development?
+Answer:
+
+1991: Python 1.0 released
+
+2000: Python 2.0 introduced garbage collection and Unicode
+
+2008: Python 3.0 released with major syntax changes
+
+2020: Python 2 officially deprecated
+
+2023+: Python 3.11+ brings major performance improvements
+
+6. What is the difference between Python 2 and Python 3?
+Answer:
+
+Python 3 is not backward-compatible with Python 2.
+
+Python 3 has better Unicode support, improved syntax, and modern features like f-strings, type hints, and async programming.
+
+Python 2 is now obsolete.
+
+7. Why is Python so popular today?
+Answer:
+
+Simple and readable syntax
+
+Huge community and libraries
+
+Used in AI/ML, Data Science, Web Dev, Cybersecurity, Automation, Game Dev, etc.
+
+Great support for beginners and professionals
+
+8. Is Python an interpreted or compiled language?
+Answer: Python is an interpreted language. It executes code line by line using the Python interpreter.
+
+9. What is the current stable version of Python?
+Answer: As of 2025, it is Python 3.12 or above (we can check the exact version if needed).
+
+10. What type of programming paradigm does Python support?
+Answer: Python supports:
+
+            Object-Oriented Programming (OOP)
+
+            Procedural Programming
+
+            Functional Programming
